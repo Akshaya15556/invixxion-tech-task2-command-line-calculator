@@ -1,0 +1,7 @@
+cmake*
+.idea*
+test*
+aur*
+package.sh
+packages*
+build*
